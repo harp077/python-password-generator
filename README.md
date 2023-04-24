@@ -1,4 +1,4 @@
-# Python random password generator
+# Python random secure password generator:
 
 Simple tiny education python desktop application based on tkinter
 
